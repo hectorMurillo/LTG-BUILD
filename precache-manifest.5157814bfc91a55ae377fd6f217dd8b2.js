@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LTG-BUILD/39e0c0d21c90cc01a6a7.worker.js"
   },
   {
-    "revision": "5789271ed4665d96e43b",
+    "revision": "ec5dad6aa935d2420e0e",
     "url": "/LTG-BUILD/css/app.be7c0072.css"
   },
   {
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LTG-BUILD/img/theme/vue.jpg"
   },
   {
-    "revision": "d3c0af0c3132080d1b8cd766e027af15",
+    "revision": "c241ed64e7d961757c782aef0628b6d9",
     "url": "/LTG-BUILD/index.html"
   },
   {
-    "revision": "5789271ed4665d96e43b",
-    "url": "/LTG-BUILD/js/app.238ca150.js"
+    "revision": "ec5dad6aa935d2420e0e",
+    "url": "/LTG-BUILD/js/app.b48cd629.js"
   },
   {
     "revision": "1d86fc96f259199ef6c2",
